@@ -54,10 +54,14 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://files.idyllic.app/files/static/2659196?width=1080&optimizer=image"  />
+<img align="right" height="150" src="https://files.idyllic.app/files/static/2659196?width=1080&optimizer=image"  />
 
 ###
 
-<p align="left">I'm currently on a journey to learn programming, starting from the fundamentals. My focus is on mastering HTML, CSS, JavaScript, Python, PHP, and SQL, one step at a time. I believe in hands-on learning through projects and real-world applications.  <br><br>💡 Learning Approach:  <br>📌 Exploring web development from the ground up  <br>📌 Practicing through exercises and projects  <br>📌 Leveraging open-source resources and community support  <br><br>🚀 Goals: <br>🔹 Build a solid foundation in web development  <br>🔹 Create and contribute to meaningful projects  <br>🔹 Continuously grow and improve my coding skills  <br><br>🤝 Collaboration & Assistance: <br>I'm always open to guidance, suggestions, and collaboration opportunities. Feel free to share insights or connect!</p>
+<h4 align="left">I'm currently on a journey to learn programming, starting from the fundamentals. My focus is on mastering HTML, CSS, JavaScript, Python, PHP, and SQL, one step at a time. I believe in hands-on learning through projects and real-world applications.  <br><br>💡 Learning Approach:  <br>📌 Exploring web development from the ground up  <br>📌 Practicing through exercises and projects  <br>📌 Leveraging open-source resources and community support  <br><br>🚀 Goals: <br>🔹 Build a solid foundation in web development  <br>🔹 Create and contribute to meaningful projects  <br>🔹 Continuously grow and improve my coding skills  <br><br>🤝 Collaboration & Assistance: <br>I'm always open to guidance, suggestions, and collaboration opportunities. Feel free to share insights or connect!</h4>
+
+###
+
+<img src="https://raw.githubusercontent.com/SaidiAtef/SaidiAtef/output/snake.svg" alt="Snake animation" />
 
 ###

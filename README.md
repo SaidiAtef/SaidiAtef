@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://files.idyllic.app/files/static/2659196?width=1080&optimizer=image"  />
+<img align="right" height="200" src="https://files.idyllic.app/files/static/2659196?width=1080&optimizer=image"  />
 
 ###
 
